@@ -1,4 +1,4 @@
-from __future__ import division
+#Don't run this
 import gym
 import numpy as np
 import torch
